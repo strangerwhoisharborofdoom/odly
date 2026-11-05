@@ -1,0 +1,6 @@
+{
+  "name": "Oddly",
+  "description": "A cute little invention studio that generates genuinely unusual app ideas, debates their logic, and crafts copy-ready build prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
